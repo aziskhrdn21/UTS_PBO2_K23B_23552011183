@@ -83,3 +83,23 @@ public double hitungTagihan() {
     }
 ## Abstract
 ### Sivitas sebagai abstract class yang digunakan sebagai superclass untuk Civitas
+public abstract class Sivitas {
+    protected String nama;
+    protected String identitas;
+
+    public Sivitas(String nama, String identitas) {
+        this.nama = nama;
+        this.identitas = identitas;
+    }
+
+    public String getNama() {
+        return nama;
+    }
+
+    public String getIdentitas() {
+        return identitas;
+    }
+
+    // Method abstrak yang harus diimplementasikan oleh subclass
+    public abstract double hitungTagihan();
+}
