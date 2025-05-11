@@ -11,3 +11,4 @@ Kasir untuk pengelolaan pembayaran administrasi kuliah.
 Membuat sebuah program sederhana menggunakan bahasa java tentang sebuah sistem kasir untuk pembayaran administrasi kuliah
 # Penjelasan 4 pilar OOP dalam studi kasus
 ## 1. inheritance
+![alt text](http://github.com/aziskhrdn21/UTS_PBO2_K23B_23552011183/blob/main/Sivitas.java?raw=true)
