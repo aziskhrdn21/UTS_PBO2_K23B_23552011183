@@ -103,3 +103,5 @@ public abstract class Sivitas {
     // Method abstrak yang harus diimplementasikan oleh subclass
     public abstract double hitungTagihan();
 }
+## link Gdrive:
+https://drive.google.com/file/d/1t5PK1u8MAzsjWpeGZqlM83NUNKc1w0z4/view?usp=drive_link
